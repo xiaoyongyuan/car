@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+.ant-menu.ant-menu-dark .ant-menu-item-selected, .ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected{
+    background-color: #15ca9e;
+}
+.ant-menu-horizontal > .ant-menu-item > a:only-child{
+    color: #fff!important;
+}
+.title{
+    color: #fff;
+    font-size: 20px;
+}
